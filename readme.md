@@ -1,6 +1,9 @@
 # jQuery mini parallax (less than 3 KB)
 ##### A lightweight jQuery plugin to add parallax effect
 
+**Note: forked from [im4aLL](github.com/im4aLL). Enabled npm support. I use
+this in the joshinkan website.**
+
 ### Usage:
 ```javascript
 $('.selector').miniParallax();
